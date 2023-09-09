@@ -1,5 +1,6 @@
 # CodeX X Feed
-![Untitled (960 × 540 px) (8)](https://github.com/5M-CodeX/codex-feed/assets/112611821/4b0eb33f-b804-4934-8710-d6d723c8b667)
+
+![Untitled (960 × 540 px) (8)](https://github.com/5M-CodeX/codex-feed/assets/112611821/ec0386c8-d75f-4cde-be86-a67dd6d503bf)
 
 Welcome to CodeX X Feed, a versatile resource that enhances your roleplaying experience and Twitter-like interactions within your FiveM server. With CodeX X Feed, players can engage in immersive roleplaying actions and share their thoughts using a custom chat command. Additionally, it seamlessly integrates with Discord, allowing you to mirror your in-game tweets in a Discord server for a broader audience.
 
