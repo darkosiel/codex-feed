@@ -25,11 +25,29 @@ With chat bubbles, your server's communication becomes more engaging and dynamic
 - **Dot Messages**: Use the `/dot` command to send Dot messages—short, impactful messages within your community.
 
 - **Interactive Roleplay Commands**:
-    - `/do`: Roleplay description command.
-    - `/me`: Roleplay action command.
-    - `/dispatch`: Send dispatch messages.
-    - `/schat`: Staff chat for administrators.
-    - `/gme`: Global me command for all players.
+
+### Staff Chat
+
+Use `/schat` to toggle staff chat mode. Staff chat messages are only visible to players with staff permissions.
+
+### Commands
+
+- `/dispatch [message]`: Send a message to the dispatch channel.
+- `/me [message]`: Send an action message to nearby players.
+- `/do [message]`: Send a description of an action to nearby players.
+- `/gme [message]`: Send a message as a game master.
+- `/darkweb [message]`: Send a message to the dark web channel.
+
+### Social Media Commands
+
+These commands send messages with specific styles:
+
+- `/x @Username Post Details`: Send a tweet-like message.
+- `/fbmarket [message]`: Send a message to the FB Market.
+- `/news [message]`: Send a news headline.
+- `/insta [message]`: Post an Instagram-style message.
+- `/dot [message]`: Post a dot message.
+      
 
 ## Configuration
 
